@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\gui\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF18376-152C-4AAF-B4A8-B465168A7641}|..\\BUS\\BUS.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\bus\\bus_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD852B6-CDAF-411D-A2B8-56951C0A3665}|..\\DAL\\DAL.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dal\\dal_giamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B77C9B-954E-4AB2-8B9C-C39968B60560}|..\\DAO\\DAO.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dao\\dao_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF18376-152C-4AAF-B4A8-B465168A7641}|..\\BUS\\BUS.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\coso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:coso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B77C9B-954E-4AB2-8B9C-C39968B60560}|..\\DAO\\DAO.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dao\\dao_hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\frmthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:frmthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD852B6-CDAF-411D-A2B8-56951C0A3665}|..\\DAL\\DAL.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dal\\dal_diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD852B6-CDAF-411D-A2B8-56951C0A3665}|..\\DAL\\DAL.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dal\\dal_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD852B6-CDAF-411D-A2B8-56951C0A3665}|..\\DAL\\DAL.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dal\\dal_chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD852B6-CDAF-411D-A2B8-56951C0A3665}|..\\DAL\\DAL.csproj|e:\\filedoancn.net\\doannet_phienbanmoi\\doannet_phienbanmoi_22_4\\dal\\qlttan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9088EA7-128F-458A-A0BD-B0CF868839F7}|GUI.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BUS_GiaoVien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\BUS\\BUS_GiaoVien.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\BUS_GiaoVien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\BUS\\BUS_GiaoVien.cs",
+              "RelativeToolTip": "..\\BUS\\BUS_GiaoVien.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:38:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiaoVien.cs [Design]",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "GiaoVien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\GiaoVien.cs [Design]",
+              "RelativeToolTip": "GiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:33:26.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaoVien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "GiaoVien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\GiaoVien.cs",
+              "RelativeToolTip": "GiaoVien.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAuwIoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:50:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL_GiamGia.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_GiamGia.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_GiamGia.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_GiamGia.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_GiamGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:45:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hocvien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Hocvien.cs",
+              "RelativeDocumentMoniker": "Hocvien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Hocvien.cs",
+              "RelativeToolTip": "Hocvien.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAWwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:54:26.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAO_GiaoVien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAO\\DAO_GiaoVien.cs",
+              "RelativeDocumentMoniker": "..\\DAO\\DAO_GiaoVien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAO\\DAO_GiaoVien.cs",
+              "RelativeToolTip": "..\\DAO\\DAO_GiaoVien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:55:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BUS_NhanVien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\BUS\\BUS_NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\BUS_NhanVien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\BUS\\BUS_NhanVien.cs",
+              "RelativeToolTip": "..\\BUS\\BUS_NhanVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:13:02.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "Nhanvien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Nhanvien.cs",
+              "RelativeToolTip": "Nhanvien.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:18:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nhanvien.cs [Design]",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "Nhanvien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Nhanvien.cs [Design]",
+              "RelativeToolTip": "Nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:18:40.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:34:33.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAMwPoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:34:46.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coso.cs [Design]",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Coso.cs",
+              "RelativeDocumentMoniker": "Coso.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Coso.cs [Design]",
+              "RelativeToolTip": "Coso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:31:33.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAO_HocVien.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAO\\DAO_HocVien.cs",
+              "RelativeDocumentMoniker": "..\\DAO\\DAO_HocVien.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAO\\DAO_HocVien.cs",
+              "RelativeToolTip": "..\\DAO\\DAO_HocVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:56:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmThemTaiKhoan.cs [Design]",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\frmThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "frmThemTaiKhoan.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\frmThemTaiKhoan.cs [Design]",
+              "RelativeToolTip": "frmThemTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:47:55.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QLTTAN.dbml",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\QLTTAN.dbml",
+              "RelativeDocumentMoniker": "..\\DAL\\QLTTAN.dbml",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\QLTTAN.dbml",
+              "RelativeToolTip": "..\\DAL\\QLTTAN.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-05-02T04:45:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DAL_ChiTietHoaDon.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_ChiTietHoaDon.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_ChiTietHoaDon.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_ChiTietHoaDon.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:45:38.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAL_ChucVu.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_ChucVu.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_ChucVu.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_ChucVu.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_ChucVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:45:45.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:35:20.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DAL_DiemDanh.cs",
+              "DocumentMoniker": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_DiemDanh.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_DiemDanh.cs",
+              "ToolTip": "E:\\filedoancn.net\\DoAnNet_phienbanmoi\\DoAnNet_phienbanmoi_22_4\\DAL\\DAL_DiemDanh.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_DiemDanh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:45:47.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
